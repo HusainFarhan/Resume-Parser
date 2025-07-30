@@ -22,7 +22,7 @@ A powerful **Tkinter-based desktop app** that parses resumes either manually or 
 
 | Manual Entry Form | PDF Upload | Company Matches |
 |-------------------|------------|------------------|
-| ![Manual](docs/Manual_Input.png) | ![PDF](Resume_Parser/docs/Pdf_Input.png) | ![Matches](docs/matches.png) |
+| ![Manual](Resume_Parser/docs/Manual_Input.png) | ![PDF](Resume_Parser/docs/Pdf_Input.png) | ![Matches](docs/matches.png) |
 
 ---
 
